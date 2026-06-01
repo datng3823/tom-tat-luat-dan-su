@@ -2,7 +2,7 @@
 
 > **Bộ luật số 91/2015/QH13** — 6 Phần, 27 Chương, 689 Điều
 
-Vault Obsidian với **25 file** tổ chức toàn bộ nội dung Bộ luật Dân sự 2015,便于 tra cứu và học tập.
+Vault Obsidian với **25 file** tổ chức toàn bộ nội dung Bộ luật Dân sự 2015, tra cứu và học tập.
 
 ## 🗂️ Cấu Trúc File
 
