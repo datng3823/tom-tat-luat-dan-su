@@ -4,8 +4,10 @@
 
 Vault Obsidian với **25 file** tổ chức toàn bộ nội dung Bộ luật Dân sự 2015, tra cứu và học tập.
 
-**Xem thêm phần FLASHCARD tại link này**
-https://app.vaia.com/studyset/63745217?ref=eIV8krvetVtti4CkAsv5dB5VGUQlBIuJ&ref_type=studyset_share
+**Xem thêm phần FLASHCARD tại link này**  
+
+https://app.vaia.com/studyset/63745217?ref=eIV8krvetVtti4CkAsv5dB5VGUQlBIuJ&ref_type=studyset_share  
+
 
 ## 🗂️ Cấu Trúc File
 
