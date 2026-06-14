@@ -30,3 +30,20 @@ Pháp nhân chịu trách nhiệm bằng tài sản của mình.
 ## Điều 88-96 – Hợp nhất, sáp nhập, chia, tách, chuyển đổi, giải thể
 
 Các hình thức tổ chức lại pháp nhân theo quy định của pháp luật.
+
+---
+
+## ⚖️ Cấu trúc quan hệ pháp luật
+
+| Yếu tố | Nội dung |
+|--------|----------|
+| **Chủ thể** | Pháp nhân (thương mại / phi thương mại) · Người đại diện theo Điều lệ |
+| **Khách thể** | Tài sản độc lập, quyền và nghĩa vụ phát sinh từ hoạt động của pháp nhân |
+| **Nội dung** | Quyền: nhân danh mình tham gia quan hệ pháp luật · Nghĩa vụ: chịu trách nhiệm bằng tài sản của mình (Đ.87) |
+
+| Điều kiện là pháp nhân (Đ.74) | |
+|-------------------------------|---|
+| Thành lập hợp pháp | Có quyết định/đăng ký |
+| Có cơ cấu tổ chức | Hội đồng thành viên, HĐQT, Giám đốc... |
+| Tài sản độc lập | Tách biệt với tài sản cá nhân |
+| Nhân danh mình | Tự tham gia QHPL độc lập |

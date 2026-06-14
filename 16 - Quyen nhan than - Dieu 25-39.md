@@ -34,3 +34,20 @@ Mọi cá nhân có quyền được bảo vệ tính mạng, sức khỏe, thâ
 ## Điều 38 – Quyền về đời sống riêng tư, bí mật cá nhân, gia đình
 
 Đời sống riêng tư, bí mật cá nhân và bí mật gia đình được pháp luật bảo vệ.
+
+---
+
+## ⚖️ Cấu trúc quan hệ pháp luật
+
+| Yếu tố | Nội dung |
+|--------|----------|
+| **Chủ thể** | Cá nhân (quyền nhân thân gắn với cá nhân, không thể chuyển giao) |
+| **Khách thể** | Các quyền nhân thân: họ tên, hình ảnh, tính mạng, sức khỏe, danh dự, bí mật đời tư... |
+| **Nội dung** | Quyền: được bảo vệ, yêu cầu chấm dứt xâm phạm · Nghĩa vụ: không xâm phạm quyền nhân thân người khác |
+
+| Đặc điểm quan trọng | |
+|---------------------|---|
+| Không thể chuyển giao | Quyền nhân thân gắn với cá nhân, thừa kế nhưng không mua bán |
+| Bảo vệ vĩnh viễn | Quyền đối với hình ảnh, danh dự — không hết thời hiệu |
+| Hình ảnh (Đ.32) | Cần đồng ý (trừ Lợi ích quốc gia, công cộng) |
+| Đời sống riêng tư (Đ.38) | Được pháp luật bảo vệ tuyệt đối |

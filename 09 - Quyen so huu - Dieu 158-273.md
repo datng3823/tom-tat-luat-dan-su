@@ -93,3 +93,20 @@ Quyền khai thác, hưởng hoa lợi từ tài sản của người khác tron
 ## Điều 267-273 – Quyền bề mặt
 
 Xem chi tiết tại [[02 - Phan 2 Quyen so huu]].
+
+---
+
+## ⚖️ Cấu trúc quan hệ pháp luật
+
+| Yếu tố | Nội dung |
+|--------|----------|
+| **Chủ thể** | Chủ sở hữu · Người chiếm hữu (ngay tình/ không ngay tình) · Chủ thể có quyền khác đối với tài sản |
+| **Khách thể** | Tài sản (động sản, bất động sản, tài sản phải đăng ký, tài sản không đăng ký) |
+| **Nội dung** | Quyền: chiếm hữu, sử dụng, định đoạt (Đ.158) · Nghĩa vụ: không lấn chiếm ranh giới (Đ.175), hoàn trả tài sản không có căn cứ |
+
+| Hậu quả pháp lý | Điều luật |
+|-----------------|-----------|
+| Đòi lại động sản không đăng ký | Đ.167 — phân biệt có/không đền bù |
+| Đòi lại BĐS/động sản phải đăng ký | Đ.168 — liên hệ Đ.133 |
+| Sở hữu theo thời hiệu | Đ.236 — 10 năm (động sản), 30 năm (BĐS) |
+| Sở hữu chung vợ chồng | Đ.213 — hợp nhất có thể phân chia |

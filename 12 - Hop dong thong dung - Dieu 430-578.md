@@ -79,6 +79,23 @@ Người tổ chức phải công bố điều kiện dự thi, thang điểm, g
 
 ---
 
+## ⚖️ Cấu trúc quan hệ pháp luật
+
+| Yếu tố | Nội dung |
+|--------|----------|
+| **Chủ thể** | Các bên hợp đồng (bên bán/mua, bên tặng cho/bên nhận, bên cho thuê/bên thuê...) · Người có công việc (Đ.574-578) |
+| **Khách thể** | Tài sản (vật, quyền), hành vi (thực hiện công việc), kết quả (giao kết quả) |
+| **Nội dung** | Quyền: yêu cầu thực hiện đúng cam kết · Nghĩa vụ: thực hiện đúng đối tượng, thời hạn, phương thức |
+
+| Hậu quả pháp lý | Điều luật |
+|-----------------|-----------|
+| Lãi suất vay | Đ.468 — tối đa 20%/năm, không rõ → 10%/năm |
+| HĐ tặng cho BĐS | Bắt buộc công chứng, chứng thực |
+| Thi có giải | Đ.573 — công bố điều kiện, thang điểm, giải thưởng |
+| Hoàn trả không có căn cứ | Đ.579-583 — phân biệt ngay tình / không ngay tình |
+
+---
+
 ## Nghĩa vụ hoàn trả (Điều 579-583)
 
 - **Điều 579:** Người chiếm hữu, sử dụng tài sản không có căn cứ phải hoàn trả cho chủ sở hữu.

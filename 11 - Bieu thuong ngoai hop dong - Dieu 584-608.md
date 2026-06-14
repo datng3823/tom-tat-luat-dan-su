@@ -41,3 +41,21 @@ Bồi thường: chi phí mai táng; cấp dưỡng cho người mà người ch
 Bao gồm phương tiện giao thông cơ giới, hệ thống tải điện, nhà máy đang hoạt động, vũ khí, chất nổ, chất cháy, chất độc, chất phóng xạ, thú dữ… Chủ sở hữu phải bồi thường thiệt hại do nguồn nguy hiểm cao độ gây ra, **ngay cả khi không có lỗi** (trừ khi thiệt hại do lỗi cố ý của người bị thiệt hại hoặc bất khả kháng).
 
 > ⚠️ **Nguồn nguy hiểm cao độ = bồi thường không cần lỗi** — đây là nguyên tắc đặc biệt cần nhớ.
+
+---
+
+## ⚖️ Cấu trúc quan hệ pháp luật
+
+| Yếu tố | Nội dung |
+|--------|----------|
+| **Chủ thể** | Người gây thiệt hại · Người bị thiệt hại · Chủ sở hữu nguồn nguy hiểm cao độ (Đ.601) |
+| **Khách thể** | Thiệt hại: tính mạng, sức khỏe, danh dự, nhân phẩm, uy tín, tài sản, quyền lợi ích hợp pháp |
+| **Nội dung** | Quyền: yêu cầu bồi thường toàn bộ và kịp thời · Nghĩa vụ: bồi thường thực tế, có thể thỏa thuận mức |
+
+| Hậu quả pháp lý | Điều luật |
+|-----------------|-----------|
+| TNDS có lỗi | Đ.584 — hành vi + lỗi + thiệt hại + nhân quả |
+| TNDS không cần lỗi | Đ.601 — nguồn nguy hiểm cao độ (trừ lỗi cố ý người bị thiệt hại/BK) |
+| Thiệt hại sức khỏe | Đ.590 — chi phí + thu nhập + tinh thần (tối đa 50× LCB) |
+| Thiệt hại tính mạng | Đ.591 — chi phí mai táng + cấp dưỡng + tinh thần (tối đa 100× LCB) |
+| NLHVDS theo tuổi | Đ.586 — <15: cha mẹ; 15-<18: tự + cha mẹ bù; ≥18: tự |
