@@ -9,14 +9,14 @@
 
 ### Phần chung & Phương pháp học
 
-| File | Nội dung |
-|------|----------|
-| [[01 - Phan 1 Quy dinh chung]] | Chương I–X: Nguyên tắc, cá nhân, pháp nhân, GDDS, đại diện, thời hiệu |
-| [[02 - Phan 2 Quyen so huu]] | Chương XI–XIV: Sở hữu, chiếm hữu, quyền đối với tài sản |
-| [[03 - Phan 3 Nghia vu hop dong]] | Chương XV–XX: Nghĩa vụ, hợp đồng thông dụng, bồi thường ngoài HĐ |
-| [[04 - Phan 4 Thua ke]] | Chương XXI–XXIV: Di chúc, thừa kế theo pháp luật, phân chia di sản |
-| [[05 - Phan 5 Yeu to nuoc ngoai]] | Chương XXV–XXVII: Quan hệ dân sự có yếu tố nước ngoài |
-| [[06 - Phan 6 Dieu khoan thi hanh]] | Điều 688–689: Chuyển tiếp & Hiệu lực |
+| File                                | Nội dung                                                              |
+| ----------------------------------- | --------------------------------------------------------------------- |
+| [[01 - Phan 1 Quy dinh chung]]      | Chương I–X: Nguyên tắc, cá nhân, pháp nhân, GDDS, đại diện, thời hiệu |
+| [[02 - Phan 2 Quyen so huu]]        | Chương XI–XIV: Sở hữu, chiếm hữu, quyền đối với tài sản               |
+| [[03 - Phan 3 Nghia vu hop dong]]   | Chương XV–XX: Nghĩa vụ, hợp đồng thông dụng, bồi thường ngoài HĐ      |
+| [[04 - Phan 4 Thua ke]]             | Chương XXI–XXIV: Di chúc, thừa kế theo pháp luật, phân chia di sản    |
+| [[05 - Phan 5 Yeu to nuoc ngoai]]   | Chương XXV–XXVII: Quan hệ dân sự có yếu tố nước ngoài                 |
+| [[06 - Phan 6 Dieu khoan thi hanh]] | Điều 688–689: Chuyển tiếp & Hiệu lực                                  |
 
 ### Hệ thống điều luật
 
