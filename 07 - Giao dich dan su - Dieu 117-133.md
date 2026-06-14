@@ -4,6 +4,12 @@
 
 ---
 
+## Điều 116 – Khái niệm giao dịch dân sự
+
+**Giao dịch dân sự** là hành vi làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự, bao gồm: hợp đồng, giao dịch đơn phương, thỏa thuận liên quan đến việc xác lập, thay đổi, chấm dứt quyền, nghĩa vụ dân sự.
+
+---
+
 ## Điều 117 – Điều kiện có hiệu lực
 
 Giao dịch có hiệu lực khi: (a) chủ thể có năng lực phù hợp, (b) tự nguyện, (c) mục đích, nội dung không vi phạm điều cấm của luật, không trái đạo đức xã hội, (d) hình thức đúng quy định nếu luật yêu cầu.

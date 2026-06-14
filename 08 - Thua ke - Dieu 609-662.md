@@ -4,6 +4,12 @@
 
 ---
 
+## Khái niệm thừa kế
+
+**Thừa kế** là việc chuyển tài sản, quyền, nghĩa vụ của người đã chết (người để lại di sản) cho người còn sống (người thừa kế) theo di chúc hoặc theo pháp luật.
+
+---
+
 ## Điều 609 – Quyền thừa kế
 
 Cá nhân có quyền lập di chúc, hưởng di sản theo di chúc hoặc theo pháp luật.

@@ -4,6 +4,13 @@
 
 ---
 
+## Khái niệm thời hạn và thời hiệu
+
+- **Thời hạn** là khoảng thời gian xác định mà theo luật hoặc thỏa thuận, quyền hoặc nghĩa vụ phải được thực hiện trong thời gian đó.
+- **Thời hiệu** là thời hạn mà theo luật quy định, khi hết thời hạn đó thì phát sinh hoặc chấm dứt quyền, nghĩa vụ pháp lý.
+
+---
+
 ## Điều 150 – Các loại thời hiệu
 
 Gồm:

@@ -4,6 +4,12 @@
 
 ---
 
+## Điều 385 – Khái niệm hợp đồng
+
+**Hợp đồng** là sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.
+
+---
+
 ## Hợp đồng mua bán (Điều 430)
 
 Bên bán chuyển quyền sở hữu tài sản, bên mua trả tiền.

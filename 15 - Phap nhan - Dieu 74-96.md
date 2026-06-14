@@ -4,6 +4,12 @@
 
 ---
 
+## Khái niệm pháp nhân
+
+**Pháp nhân** là tổ chức có tư cách pháp lý, được pháp luật công nhận là chủ thể có quyền và nghĩa vụ dân sự独立 lập, có tài sản độc lập và tự chịu trách nhiệm bằng tài sản của mình.
+
+---
+
 ## Điều 74 – Điều kiện là pháp nhân
 
 Tổ chức được công nhận là pháp nhân khi:

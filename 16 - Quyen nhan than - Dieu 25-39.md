@@ -4,6 +4,12 @@
 
 ---
 
+## Khái niệm quyền nhân thân
+
+**Quyền nhân thân** là quyền của cá nhân đối với bản thân, gắn liền với con người, không thể chuyển giao cho người khác. Bao gồm: quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia đình; quyền đối với họ, tên; quyền đối với hình ảnh; quyền về sức khỏe, tính mạng; quyền về danh dự, nhân phẩm.
+
+---
+
 ## Điều 26-28 – Quyền đối với họ, tên
 
 - Được xác định theo khai sinh.

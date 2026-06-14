@@ -4,6 +4,12 @@
 
 ---
 
+## Khái niệm bồi thường thiệt hại ngoài hợp đồng
+
+**Bồi thường thiệt hại ngoài hợp đồng** là việc người gây thiệt hại phải bồi thường toàn bộ thiệt hại thực tế, trực tiếp cho người bị thiệt hại khi có hành vi xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, uy tín, tài sản, quyền, lợi ích hợp pháp mà không có hợp đồng giữa hai bên.
+
+---
+
 ## Điều 584 – Căn cứ phát sinh trách nhiệm bồi thường
 
 Người có hành vi xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, uy tín, tài sản, quyền, lợi ích hợp pháp của người khác mà gây thiệt hại thì phải bồi thường. Không bồi thường nếu thiệt hại do bất khả kháng hoặc hoàn toàn do lỗi của bên bị thiệt hại.
