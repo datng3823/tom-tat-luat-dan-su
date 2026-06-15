@@ -49,3 +49,49 @@ Các án lệ này còn mới nên tần suất áp dụng chưa cao bằng nhó
 | 🔴 Cao | **AL 04/2016/AL** | Tài sản chung vợ chồng + chuyển nhượng |
 | 🟡 Trung bình | **AL 26/2018/AL** | Thời hiệu thừa kế (Đ.623) |
 | 🟡 Trung bình | **AL 05/2016/AL** | Công sức đóng góp di sản |
+
+---
+
+## Phân loại án lệ theo chủ đề
+
+### 1. Thừa kế (xem thêm [[08 - Thua ke - Dieu 609-662]])
+
+| Án lệ | Chủ đề | Liên kết |
+|-------|--------|---------|
+| AL 16/2017/AL | Chuyển nhượng QSD đất là di sản | Đ.617, Đ.644 |
+| AL 05/2016/AL | Công sức đóng góp di sản | Đ.615 |
+| AL 24/2018/AL | Di sản → tài sản cá nhân | Đ.612 |
+| AL 26/2018/AL | Thời hiệu chia di sản BĐS | Đ.623 |
+| AL 06/2016/AL | Thừa kế có người ở nước ngoài | Đ.663-687 |
+| AL 72/2024/AL | Xác định di sản theo di chúc | Đ.637, Đ.640 |
+
+### 2. Hợp đồng & nghĩa vụ (xem thêm [[12 - Hop dong thong dung - Dieu 430-578]])
+
+| Án lệ | Chủ đề | Liên kết |
+|-------|--------|---------|
+| AL 08/2016/AL | Lãi suất trong HĐ tín dụng | Đ.468 |
+| AL 09/2016/AL | Phạt vi phạm, lãi chậm thanh toán | Đ.399, Đ.418 |
+| AL 14/2017/AL | Điều kiện HĐ tặng cho QSD đất | Đ.457, Đ.459 |
+| AL 25/2018/AL | Không phạt cọc vì lý do khách quan | Đ.328 |
+| AL 81/2025/AL | Đòi tiền dịch vụ sau chấm dứt HĐ | Đ.579-583 |
+
+### 3. Bảo đảm thực hiện nghĩa vụ (xem thêm [[25 - Bao dam thuc hien nghia vu - Dieu 292-350]])
+
+| Án lệ | Chủ đề | Liên kết |
+|-------|--------|---------|
+| AL 11/2017/AL | Thế chấp QSD đất + tài sản trên đất | Đ.317 |
+| AL 79/2025/AL | Hiệu lực HĐ đặt cọc | Đ.328 |
+
+### 4. GDDS vô hiệu (xem thêm [[07 - Giao dich dan su - Dieu 117-133]])
+
+| Án lệ | Chủ đề | Liên kết |
+|-------|--------|---------|
+| AL 04/2016/AL | HĐ chuyển nhượng QSD đất — tài sản chung | Đ.122, Đ.123 |
+| AL 14/2017/AL | HĐ tặng cho có điều kiện | Đ.117, Đ.129 |
+
+### 5. Quyền sở hữu &占有 hữu (xem thêm [[38 - Tai san va Chiem huu - Dieu 105-186]])
+
+| Án lệ | Chủ đề | Liên kết |
+|-------|--------|---------|
+| AL 16/2017/AL | Công nhận HĐ chuyển nhượng QSD đất | Đ.166-168 |
+| AL 24/2018/AL | Di sản → tài sản cá nhân | Đ.207-220 |

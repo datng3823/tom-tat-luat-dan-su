@@ -10,6 +10,59 @@
 
 ---
 
+## 📌 Ba chế định đặc biệt phát sinh nghĩa vụ (Đ.562–583)
+
+Ba chế định này là **căn cứ phát sinh nghĩa vụ** theo Điều 275, thường bị bỏ qua nhưng rất hay ra trong đề thi.
+
+### Hứa thưởng (Đ.570-572)
+
+**Hứa thưởng** là việc một người công khai cam kết trả thưởng cho người thực hiện công việc theo yêu cầu.
+
+- **Đ.570:** Hứa thưởng phải công khai, rõ ràng.
+- **Đ.571:** Có quyền rút lại khi chưa đến hạn bắt đầu thực hiện.
+- **Đ.572:** Nhiều người cùng thực hiện → người hoàn thành đầu tiên nhận thưởng.
+
+> ⚠️ **Hứa thưởng ≠ Hợp đồng:** Hứa thưởng là hành vi pháp lý đơn phương, không cần bên kia đồng ý.
+
+---
+
+### Thi có giải (Đ.573)
+
+**Thi có giải** là việc người tổ chức công bố giải thưởng cho người đoạt giải trong cuộc thi.
+
+- Người tổ chức phải công bố: điều kiện dự thi, thang điểm, giải thưởng.
+- Người đoạt giải có quyền yêu cầu trao giải đúng mức.
+
+---
+
+### Thực hiện công việc không có ủy quyền (Đ.574-578)
+
+**Thực hiện công việc không có ủy quyền** là việc một người tự nguyện thực hiện công việc vì lợi ích người khác khi người đó không biết hoặc biết mà không phản đối.
+
+- **Đ.574:** Một người tự nguyện thực hiện công việc vì lợi ích người khác.
+- **Đ.575:** Nghĩa vụ thực hiện phù hợp khả năng, điều kiện.
+- **Đ.576:** Người có công việc phải tiếp nhận, thanh toán chi phí hợp lý.
+- **Đ.577:** Cố ý gây thiệt hại → bồi thường toàn bộ; vô ý → có thể giảm.
+- **Đ.578:** Chấm dứt khi người có công việc yêu cầu, tiếp nhận, hoặc người thực hiện không thể tiếp tục.
+
+> 🔥 **Liên kết với Đ.275:** Đây là 1 trong 5 căn cứ phát sinh nghĩa vụ dân sự.
+
+---
+
+### Nghĩa vụ hoàn trả (Đ.579-583)
+
+**Nghĩa vụ hoàn trả** là việc người chiếm hữu, sử dụng tài sản không có căn cứ phải hoàn trả cho chủ sở hữu.
+
+- **Đ.579:** Người chiếm hữu, sử dụng tài sản không có căn cứ phải hoàn trả cho chủ sở hữu.
+- **Đ.580:** Hoàn trả toàn bộ; vật đặc định phải hoàn trả đúng vật.
+- **Đ.581:** Không ngay tình → hoàn trả từ thời điểm chiếm hữu; ngay tình → hoàn trả từ thời điểm biết/sợ phải biết.
+- **Đ.582:** Người thứ ba nhận tài sản từ người không có quyền cũng phải hoàn trả.
+- **Đ.583:** Chủ sở hữu phải thanh toán chi phí cần thiết mà người ngay tình đã bỏ ra.
+
+> 🔗 **Liên hệ:** Đ.579-583 liên hệ chặt chẽ với占有 hữu (Đ.179-186) và thời hiệu (Đ.236).
+
+---
+
 ## Hợp đồng mua bán (Điều 430)
 
 Bên bán chuyển quyền sở hữu tài sản, bên mua trả tiền.
