@@ -53,7 +53,6 @@ Tom_tat_luat_ds/
 ├── 37 - Ly luan co ban Luat Dan su.md          ← Lý luận nền tảng (QHPLDS, nguồn luật)
 ├── 38 - Tai san va Chiem huu - Dieu 105-186.md ← Phân loại tài sản + chiếm hữu
 ├── 39 - Xac lap bao ve quyen so huu - Dieu 221-244.md ← Căn cứ xác lập sở hữu
-├── Flashcards/                                 ← Thẻ ghi nhớ
 ├── README.md                                   ← File này
 └── SKILL.md                                    ← Hướng dẫn AI
 ```
