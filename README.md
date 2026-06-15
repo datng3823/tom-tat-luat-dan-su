@@ -2,7 +2,7 @@
 
 > **Bộ luật số 91/2015/QH13** — 6 Phần, 27 Chương, 689 Điều
 
-Vault Obsidian với **39 file** tổ chức toàn bộ nội dung Bộ luật Dân sự 2015, tra cứu và học tập.
+Vault Obsidian với **39 file markdown** + Flashcards tổ chức toàn bộ nội dung Bộ luật Dân sự 2015, tra cứu và học tập.
 
 **Xem thêm phần FLASHCARD tại link này**  
 
@@ -51,7 +51,7 @@ Tom_tat_luat_ds/
 ├── 35 - Bai tap tinh huong hop dong va boi thuong.md ← 10 tình huống đa chủ đề
 ├── 36 - Index theo so dieu.md                  ← Bảng tra số điều → file
 ├── 37 - Ly luan co ban Luat Dan su.md          ← Lý luận nền tảng (QHPLDS, nguồn luật)
-├── 38 - Tai san va Chiem huu - Dieu 105-186.md ← Phân loại tài sản +占有 hữu
+├── 38 - Tai san va Chiem huu - Dieu 105-186.md ← Phân loại tài sản + chiếm hữu
 ├── 39 - Xac lap bao ve quyen so huu - Dieu 221-244.md ← Căn cứ xác lập sở hữu
 ├── Flashcards/                                 ← Thẻ ghi nhớ
 ├── README.md                                   ← File này
@@ -86,9 +86,11 @@ Tom_tat_luat_ds/
 ## ⚠️ Cảnh Báo Quan Trọng
 
 - **Bẫy số điều**: Đ.133 BLDS 2015 ≠ Đ.133 BLDS 2005
-- **Thời hiệu**: 30 năm (BĐS), 10 năm (ĐS) — Đ.236, Đ.623
-- **Thừa kế**: Hàng 1 ưu tiên, thế vị chỉ khi chia theo PL
+- **Thời hiệu sở hữu TZ**: 30 năm (BĐS), 10 năm (ĐS) — Đ.236
+- **Thời hiệu thừa kế**: 30 năm (BĐS), 10 năm (ĐS), 3 năm (nghĩa vụ TS) — Đ.623
+- **Thừa kế**: 3 hàng (Hàng 1: V/C, cha mẹ, con), thế vị chỉ khi chia theo PL — Đ.651, 652
 - **Nguồn nguy hiểm cao độ**: Bồi thường KHÔNG CẦN LỖI — Đ.601
+- **GDDS vô hiệu**: Thời hiệu 02 năm (Đ.132), riêng Đ.123, 124 không bị hạn chế
 
 ---
 
@@ -165,7 +167,8 @@ Máy tính (sửa file) → Auto push → GitHub
 ## 📝 Ghi Chú
 
 - Tất cả file dùng Obsidian wiki-links `[[]]`
-- Cập nhật lần cuối: 2026
+- Mỗi file đều có: định nghĩa → nội dung chi tiết → bảng hậu quả pháp lý → cấu trúc quan hệ pháp luật → liên kết
+- Cập nhật lần cuối: 14/06/2026
 
 ---
 
