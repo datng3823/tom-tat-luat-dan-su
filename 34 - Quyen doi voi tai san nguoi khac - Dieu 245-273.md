@@ -61,7 +61,7 @@ Thiết lập theo thỏa thuận hoặc theo luật định.
 ### Điều 259 – Quyền của người hưởng dụng
 
 1. Khai thác tài sản theo cách thức hợp lý.
-2.享受 hoa lợi từ tài sản.
+2. Hưởng hoa lợi từ tài sản.
 3. Chuyển nhượng quyền hưởng dụng cho người khác.
 
 ### Điều 260 – Nghĩa vụ của người hưởng dụng
@@ -107,7 +107,7 @@ Thiết lập theo thỏa thuận hoặc theo luật định.
 Quyền bề mặt chấm dứt khi:
 - Hết thời hạn.
 - Người bề mặt chết.
-- Đất bị收回.
+- Đất bị thu hồi.
 - Theo thỏa thuận.
 
 ---

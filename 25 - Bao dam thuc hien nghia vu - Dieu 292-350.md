@@ -62,7 +62,7 @@ Bên đặt cọc giao một khoản tiền, vàng, kim loại quý, giấy tờ
 
 ## Điều 330 – Bảo lưu quyền sở hữu
 
-Bên bán保留 quyền sở hữu tài sản cho đến khi bên mua thực hiện đầy đủ nghĩa vụ thanh toán.
+Bên bán bảo lưu quyền sở hữu tài sản cho đến khi bên mua thực hiện đầy đủ nghĩa vụ thanh toán.
 
 - Bảo lưu quyền sở hữu đối với **động sản** (kể cả động sản đã gắn liền với BĐS).
 - Không áp dụng cho bất động sản.

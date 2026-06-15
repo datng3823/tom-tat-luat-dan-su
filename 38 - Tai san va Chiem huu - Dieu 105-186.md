@@ -79,25 +79,25 @@
 
 ### Điều 180 – Chiếm hữu ngay tình
 
-Người占有 hữu ngay tình là người占有 hữu tài sản mà **không biết hoặc không phải biết** mình占有 hữu trái phép.
+Ngườichiếm hữu ngay tình là ngườichiếm hữu tài sản mà **không biết hoặc không phải biết** mìnhchiếm hữu trái phép.
 
-### Điều 181-183 – Đặc điểm của占有 hữu ngay tình
+### Điều 181-183 – Đặc điểm củachiếm hữu ngay tình
 
--占有 hữu phải **liên tục** (không bị gián đoạn).
--占有 hữu phải **công khai** (không giấu giếm).
--占有 hữu phải **có căn cứ tin tưởng** (ví dụ: hợp đồng mua bán, giấy tờ hợp lệ).
+-chiếm hữu phải **liên tục** (không bị gián đoạn).
+-chiếm hữu phải **công khai** (không giấu giếm).
+-chiếm hữu phải **có căn cứ tin tưởng** (ví dụ: hợp đồng mua bán, giấy tờ hợp lệ).
 
-### Điều 184 – Suy đoán占有 hữu
+### Điều 184 – Suy đoánchiếm hữu
 
-> **Người占有 hữu được suy đoán là ngay tình và có quyền占有 hữu.**
+> **Ngườichiếm hữu được suy đoán là ngay tình và có quyềnchiếm hữu.**
 
-Người đưa ra yêu cầu phải chứng minh người占有 hữu không ngay tình.
+Người đưa ra yêu cầu phải chứng minh ngườichiếm hữu không ngay tình.
 
-### Điều 185 –占有 hữu bất động sản
+### Điều 185 –chiếm hữu bất động sản
 
-占有 hữu BĐS phải đăng ký. Người占有 hữu BĐS không đăng ký thì không được pháp luật bảo vệ.
+chiếm hữu BĐS phải đăng ký. Ngườichiếm hữu BĐS không đăng ký thì không được pháp luật bảo vệ.
 
-### Điều 186 –占有 hữu động sản占有 hữu động sản không cần đăng ký. Người占有 hữu động sản được bảo vệ theo quy định.
+### Điều 186 –chiếm hữu động sảnchiếm hữu động sản không cần đăng ký. Ngườichiếm hữu động sản được bảo vệ theo quy định.
 
 ---
 
@@ -105,20 +105,20 @@ Người đưa ra yêu cầu phải chứng minh người占有 hữu không nga
 
 ### Điều 236
 
-Người占有 hữu, được lợi về tài sản **không có căn cứ pháp luật** nhưng **ngay tình, liên tục, công khai** trong thời hạn sau thì trở thành chủ sở hữu:
+Ngườichiếm hữu, được lợi về tài sản **không có căn cứ pháp luật** nhưng **ngay tình, liên tục, công khai** trong thời hạn sau thì trở thành chủ sở hữu:
 
 | Loại tài sản | Thời hạn |
 |-------------|----------|
 | **Động sản** | **10 năm** |
 | **Bất động sản** | **30 năm** |
 
-> 🔥 **Lưu ý:** Đây là占有 hữu không có căn cứ PL, không phải占有 hữu có căn cứ PL.
+> 🔥 **Lưu ý:** Đây làchiếm hữu không có căn cứ PL, không phảichiếm hữu có căn cứ PL.
 
 ---
 
-## Bảng tổng hợp占有 hữu
+## Bảng tổng hợpchiếm hữu
 
-| Tiêu chí |占有 hữu có CNPL |占有 hữu không CNPL ngay tình |占有 hữu không CNPL không ngay tình |
+| Tiêu chí |chiếm hữu có CNPL |chiếm hữu không CNPL ngay tình |chiếm hữu không CNPL không ngay tình |
 |---------|----------------|----------------------------|-------------------------------|
 | Căn cứ PL | Có | Không | Không |
 | Ý thức | Biết có quyền | Không biết/không phải biết | Biết/rõ |
@@ -132,9 +132,9 @@ Người占有 hữu, được lợi về tài sản **không có căn cứ phá
 
 | Yếu tố | Nội dung |
 |--------|----------|
-| **Chủ thể** | Chủ sở hữu · Người占有 hữu · Người được lợi không có CNPL |
+| **Chủ thể** | Chủ sở hữu · Ngườichiếm hữu · Người được lợi không có CNPL |
 | **Khách thể** | Tài sản (động sản, BĐS, hoa lợi, lợi tức) |
-| **Nội dung** | Quyền:占有 hữu, sử dụng, định đoạt · Nghĩa vụ: hoàn trả, bồi thường |
+| **Nội dung** | Quyền:chiếm hữu, sử dụng, định đoạt · Nghĩa vụ: hoàn trả, bồi thường |
 
 ---
 
@@ -142,5 +142,5 @@ Người占有 hữu, được lợi về tài sản **không có căn cứ phá
 
 → Xem thêm: [[09 - Quyen so huu - Dieu 158-273]] (quyền sở hữu chi tiết)
 → Xem thêm: [[37 - Ly luan co ban Luat Dan su]] (phân loại tài sản trong lý luận)
-→ Xem thêm: [[25 - Bao dam thuc hien nghia vu - Dieu 292-350]] (占有 hữu liên quan đến bảo đảm)
+→ Xem thêm: [[25 - Bao dam thuc hien nghia vu - Dieu 292-350]] (chiếm hữu liên quan đến bảo đảm)
 → Xem thêm: [[36 - Index theo so dieu]] (tra cứu số điều)

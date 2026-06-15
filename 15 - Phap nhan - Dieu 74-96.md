@@ -6,7 +6,7 @@
 
 ## Khái niệm pháp nhân
 
-**Pháp nhân** là tổ chức có tư cách pháp lý, được pháp luật công nhận là chủ thể có quyền và nghĩa vụ dân sự独立 lập, có tài sản độc lập và tự chịu trách nhiệm bằng tài sản của mình.
+**Pháp nhân** là tổ chức có tư cách pháp lý, được pháp luật công nhận là chủ thể có quyền và nghĩa vụ dân sự độc lập, có tài sản độc lập và tự chịu trách nhiệm bằng tài sản của mình.
 
 ---
 

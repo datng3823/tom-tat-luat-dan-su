@@ -89,7 +89,7 @@ Các án lệ này còn mới nên tần suất áp dụng chưa cao bằng nhó
 | AL 04/2016/AL | HĐ chuyển nhượng QSD đất — tài sản chung | Đ.122, Đ.123 |
 | AL 14/2017/AL | HĐ tặng cho có điều kiện | Đ.117, Đ.129 |
 
-### 5. Quyền sở hữu &占有 hữu (xem thêm [[38 - Tai san va Chiem huu - Dieu 105-186]])
+### 5. Quyền sở hữu & chiếm hữu (xem thêm [[38 - Tai san va Chiem huu - Dieu 105-186]])
 
 | Án lệ | Chủ đề | Liên kết |
 |-------|--------|---------|

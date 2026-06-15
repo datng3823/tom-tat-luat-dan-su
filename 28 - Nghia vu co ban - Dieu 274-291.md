@@ -37,7 +37,7 @@ Nghĩa vụ phải được thực hiện đúng:
 
 - Bên đã thực hiện nghĩa vụ có quyền yêu cầu các bên khác thực hiện phần nghĩa vụ của họ.
 
-> ⚠️ **Nghĩa vụ连đới ≠ Nghĩa vụ chung:** Nghĩa vụ连đới = bên có quyền chọn bất kỳ bên nào.
+> ⚠️ **Nghĩa vụ liên đới ≠ Nghĩa vụ chung:** Nghĩa vụ liên đới = bên có quyền chọn bất kỳ bên nào.
 
 ---
 

@@ -59,7 +59,7 @@ Ba chế định này là **căn cứ phát sinh nghĩa vụ** theo Điều 275,
 - **Đ.582:** Người thứ ba nhận tài sản từ người không có quyền cũng phải hoàn trả.
 - **Đ.583:** Chủ sở hữu phải thanh toán chi phí cần thiết mà người ngay tình đã bỏ ra.
 
-> 🔗 **Liên hệ:** Đ.579-583 liên hệ chặt chẽ với占有 hữu (Đ.179-186) và thời hiệu (Đ.236).
+> 🔗 **Liên hệ:** Đ.579-583 liên hệ chặt chẽ với chiếm hữu (Đ.179-186) và thời hiệu (Đ.236).
 
 ---
 

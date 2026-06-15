@@ -45,7 +45,7 @@
 
 ## Điều 53 – Tìm kiếm người mất tích
 
-Khi một người離開 nơi cư trú mà không có tin tức trong **01 năm** trở lên thì người quan tâm có quyền yêu cầu Tòa án thông báo tìm kiếm.
+Khi một người rời khỏi nơi cư trú mà không có tin tức trong **01 năm** trở lên thì người quan tâm có quyền yêu cầu Tòa án thông báo tìm kiếm.
 
 - Tòa án ra thông báo tìm kiếm trong **03 tháng**.
 - Hết **03 tháng** mà không có tin tức → Tòa án ra quyết định tuyên bố mất tích.
